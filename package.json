@@ -56,7 +56,7 @@
     "cordova-windows": "7.0.0",
     "core-js": "^3.4.1",
     "firebase": "^7.5.2",
-    "firestore-export-import": "^0.3.0",
+    "firestore-export-import": "^1.4.0",
     "rxjs": "^6.5.3",
     "sw-toolbox": "3.6.0",
     "tslib": "^1.10.0",
